@@ -9,7 +9,7 @@ $ cd my_light_recipe
 
 ###2.Make local settings  
 2.1 Copy light_recipe/_local_settings.py to light_recipe/local_settings.py.  
-2.2 Go trought example in docstring to setup local DB settings.  
+2.2 Setup local DB settings using example in docstring.
 2.3 Create DB in postgresql.  
 
 ###3.Create local virtualenv.  
